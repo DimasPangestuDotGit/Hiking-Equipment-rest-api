@@ -1,0 +1,7 @@
+/Users/dimaspangestu/MS/HikingEquipment/HikingEquipment.API/obj/Debug/net7.0/HikingEquipment.API.csproj.AssemblyReference.cache
+/Users/dimaspangestu/MS/HikingEquipment/HikingEquipment.API/obj/Debug/net7.0/HikingEquipment.API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dimaspangestu/MS/HikingEquipment/HikingEquipment.API/obj/Debug/net7.0/HikingEquipment.API.AssemblyInfoInputs.cache
+/Users/dimaspangestu/MS/HikingEquipment/HikingEquipment.API/obj/Debug/net7.0/HikingEquipment.API.AssemblyInfo.cs
+/Users/dimaspangestu/MS/HikingEquipment/HikingEquipment.API/obj/Debug/net7.0/HikingEquipment.API.csproj.CoreCompileInputs.cache
+/Users/dimaspangestu/MS/HikingEquipment/HikingEquipment.API/obj/Debug/net7.0/HikingEquipment.API.MvcApplicationPartsAssemblyInfo.cs
+/Users/dimaspangestu/MS/HikingEquipment/HikingEquipment.API/obj/Debug/net7.0/HikingEquipment.API.MvcApplicationPartsAssemblyInfo.cache

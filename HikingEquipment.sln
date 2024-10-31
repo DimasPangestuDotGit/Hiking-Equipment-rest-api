@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HikingEquipmentAPI", "HikingEquipmentAPI\HikingEquipmentAPI.csproj", "{7C3A3391-FB04-4227-AAAD-10F23F466927}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HikingEquipmentServices", "HikingEquipmentServices\HikingEquipmentServices.csproj", "{A93E8FEA-8A41-49FF-8FA0-AF0AC4979762}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C3A3391-FB04-4227-AAAD-10F23F466927}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C3A3391-FB04-4227-AAAD-10F23F466927}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C3A3391-FB04-4227-AAAD-10F23F466927}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C3A3391-FB04-4227-AAAD-10F23F466927}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A93E8FEA-8A41-49FF-8FA0-AF0AC4979762}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A93E8FEA-8A41-49FF-8FA0-AF0AC4979762}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A93E8FEA-8A41-49FF-8FA0-AF0AC4979762}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A93E8FEA-8A41-49FF-8FA0-AF0AC4979762}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
